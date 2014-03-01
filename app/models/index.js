@@ -3,6 +3,6 @@
 
 module.exports = function IndexModel() {
     return {
-        name: 'app'
+        name: 'Curley & Bracket'
     };
 };
